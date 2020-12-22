@@ -215,14 +215,14 @@ export default {
       name: 'PDMC+',
       type: 'team',
       developmentDate: '2020年7月 - 2020年10月',
-      introduction: '华为内部业务流程管理与设计平台，核心功能为流程设计、流程管理、流程应用、及八大流程资产管理。。',
+      introduction: '华为内部业务流程管理与设计平台，核心功能为流程设计、流程管理、流程应用、及八大流程资产管理。',
       technologyStack: {
         backEnd: 'Jalor6 + MyBatis + SpringMVC + Activiti + Mysql + Redis',
         frontEnd: 'VUE + ES6 + H5 + CSS3 + AUI + Webpack + Gulp + Nginx',
         supportingSystem: 'TFS(DevOps需求部分) + 灵龙（持续集成和测试） + 云龙（代码托管）+ WCM（前端应用部署）'
       },
       myJob: {
-        daily: '担任前端SE Leader，负责前端组所有管理内容。包括：前端开发进度管理和人员管理、前端核心功能实现的概要设计、前端业务架构的优化及重构、前端核心业务模块或组件的开发实现、前端代码代码审阅及Comitter、前端应用部署负责人。',
+        daily: '担任前端SE Leader，负责前端组所有管理内容。包括：前端开发进度管理和人员管理、前端核心功能实现的概要设计、前端业务架构的优化及重构、前端核心业务模块或组件的开发实现、前端代码审阅及Comitter、前端应用部署负责人。',
         prominent: `提取了各资产模块的公共的业务逻辑，通过订阅消息可在执行上下文前后执行资产对象特定方法，大大减少了前端代码维护工作，提升了代码可靠性；
         优化合并了因为类型维护或lookup产生的多次服务请求，采用批量接口完成统一请求；
         为时2个月的快节奏工作，最后在计划时间内完成，受到了甲方和本公司产品领导的高度赞赏。`
