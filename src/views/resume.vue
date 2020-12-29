@@ -328,6 +328,7 @@
                   <div class="project-name">
                     <a-icon :type="{private: 'coffee', team: 'team', independently: 'user'}[item.type]" style="margin-right:10px" />
                     {{item.name}}
+                    <a v-if="item.url" :href="item.url" target="_block">{{item.url.split('//')[1]}}</a>
                     <span>{{item.developmentDate}}</span>
                   </div>
                   <div class="project-introduction" v-html="item.introduction"></div>

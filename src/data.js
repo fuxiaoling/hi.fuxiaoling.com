@@ -281,7 +281,7 @@ export default {
       introduction: `预研性质项目，旨在通过WebGL的3D方式实时模拟南方电商仓库核心设备的运作情况，数据来源为南方仓库中心系统提供。
       场景中可以查询具体订单商品在仓库中的整个处理过程，场景实时对各设备资源的运行情况进行反馈，关键设备支持详情特写。`,
       technologyStack: {
-        backEnd: 'Jalor6 + spring + WebSocke',
+        backEnd: 'Jalor6 + spring + WebSocket',
         frontEnd: 'VUE + ES6 + H5 + CSS3 + WebGL/ThreeJs + SVG + WebSocket + Webpack + Nginx',
         supportingSystem: 'TFS(DevOps) + WCM（前端应用部署）'
       },
@@ -311,7 +311,7 @@ export default {
       developmentDate: '2019年7月 - 2019年7月',
       introduction: `项目是一个大屏项目，含3个大屏页，是华为武研所某部门接受创始团队领导视察时大屏展示。`,
       technologyStack: {
-        backEnd: 'Jalor6 + spring + WebSocke',
+        backEnd: 'Jalor6 + spring + WebSocket',
         frontEnd: 'VUE + ES6 + H5 + CSS3 + SVG + eCharts + WebSocket + webworker + Webpack',
         supportingSystem: 'WCM（前端应用部署）'
       },
